@@ -8,7 +8,7 @@
 - tqdm (only when the VERBOSE is True)
 
 # Usage instructions
-Download VPAC:
+Download VPAC.
 ```
 git clone https://github.com/ShengquanChen/VPAC
 ```
@@ -24,4 +24,4 @@ prob = vpac.predict_proba()
 ```
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the MIT License - see the LICENSE file for details.
